@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/Coder_3104)
+
 <!--
 **udit196/udit196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
