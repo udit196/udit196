@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Coder_3104)
+![Codeforces Stats](https://udit196.github.io/CF-graph-live/)
 
 <!--
 **udit196/udit196** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
